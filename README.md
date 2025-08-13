@@ -8,7 +8,8 @@ This repository contains two beginner-friendly Python programs.
   This program takes an integer input from the user and checks whether it is even or odd using an `if-else` statement.
 - **How to Run:**  
   ```bash
-  python even_odd.py```
+  python even_odd.py
+  ```
 ### Example Output:
 
 ```bash
